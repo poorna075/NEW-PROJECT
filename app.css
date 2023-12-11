@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #cec9b9;
+}
+
+header {
+    background-color: #151111;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+header:hover {
+    color: deepskyblue;
+}
+
+
+section {
+    margin: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.head {
+    color: #151111;
+}
+.head:hover {
+    color: orangered;
+}
+.para {
+    color: #151111;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
